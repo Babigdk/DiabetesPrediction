@@ -14,7 +14,7 @@ Several constraints were imposed during the selection of instances for this data
 
 ## Files
 
-- `diabetes_dataset.csv`: The dataset in CSV format containing all the necessary information.
+- `diabetes.csv`: The dataset in CSV format containing all the necessary information.
 
 ## Variables
 
